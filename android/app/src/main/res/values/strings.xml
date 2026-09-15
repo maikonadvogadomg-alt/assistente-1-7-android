@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Assistente 1.7</string>
+  <string name="title_activity_main">Assistente 1.7</string>
+  <string name="custom_url_scheme">commeuappassistente17</string>
+</resources>
